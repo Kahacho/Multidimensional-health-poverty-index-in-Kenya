@@ -428,4 +428,4 @@ n_county
 county_df
 
 sum(county_df$`sum(dual_cutoff)`)
-sum(n_county$`n()`)
+sum(n_county$n())
